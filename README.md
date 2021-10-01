@@ -1,0 +1,1 @@
+# packer-rhel-8-stig-ami
